@@ -1,5 +1,8 @@
 # React + Vite
 
+# simple React project using tailwind css 
+  About this project - In this project color full button where being used to change the background color of the screen .
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
